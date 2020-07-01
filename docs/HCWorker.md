@@ -3,6 +3,7 @@
  
  
  [MainMenu](./)
+ [Game Manual](./Manual)
  
  
   [Back](/Game)
