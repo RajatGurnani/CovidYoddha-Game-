@@ -1,4 +1,4 @@
-# eysip2020-31_RPG-Game-Development-COVID-Yoddha
+# eysip2020 Team_id-31 RPG-Game-Development-COVID-Yoddha
 The project is being developed under e-Yantra Summer Internship Program 2020, a joint initiative by IIT Bombay and MHRD.
 
 ## Abstract:
